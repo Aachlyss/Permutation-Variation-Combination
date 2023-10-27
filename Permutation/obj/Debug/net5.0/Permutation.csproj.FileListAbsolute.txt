@@ -1,0 +1,16 @@
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.exe
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.deps.json
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.runtimeconfig.json
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.runtimeconfig.dev.json
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.dll
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\bin\Debug\net5.0\Permutation.pdb
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.csproj.AssemblyReference.cache
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.AssemblyInfoInputs.cache
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.AssemblyInfo.cs
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.dll
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\refint\Permutation.dll
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.pdb
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\Permutation.genruntimeconfig.cache
+C:\Users\ivana\Documents\My Docs\GitHubRepos\Permutation-Variation-Combination\Permutation\obj\Debug\net5.0\ref\Permutation.dll
